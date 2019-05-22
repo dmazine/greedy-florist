@@ -1,5 +1,5 @@
 # greedy-florist [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
-> HackerRank Greedy Florist challenge solution
+> HackerRank [Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms) challenge solution
 
 ## Installation
 
